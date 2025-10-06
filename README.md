@@ -3,42 +3,23 @@
   <p><b>Desenvolvedora Junior | Estudante | Analista de Soluções na CapGemini</b></p>
 </div>
 
-### 🧑🏻 Sobre mim
-<p>
-  Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR. Busco seguir minha formação acadêmica ao desenvolvimento de soluções práticas e inovadoras. Meu objetivo é atuar em ambientes colaborativos, onde possa aplicar habilidades como trabalho em equipe e conhecimentos técnicos adquiridos.
-</p>
+## 💫 Sobre mim:
+Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR. Busco seguir minha formação acadêmica ao desenvolvimento de soluções práticas e inovadoras. Meu objetivo é atuar em ambientes colaborativos, onde possa aplicar habilidades como trabalho em equipe e conhecimentos técnicos adquiridos.
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarcelaMeiser&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MarcelaMeiser&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMeiser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Rede:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meiser) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelameiser) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_meiser) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/meiserrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcela.meiser@gmail.com) 
 
-[![](https://visitcount.itsvg.in/api?id=MarcelaMeiser&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarcelaMeiser&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MarcelaMeiser&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMeiser&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarcelaMeiser&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 🛠️ Skills
-<div align="left">
-  <p><b>Linguagens e Frameworks:</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  </p>
-
-  <p><b>Ferramentas e Tecnologias:</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </p>
-</div>
-
----
-
-### 📚 Cursos e Estudos
+## 📚 Cursos e Estudos
 <ul>
   <li><b>Estudando atualmente: Java com Spring</b></li>
   <li><b>Ciência da Computação</b> - IBMR <i>2024 - 2027</i></li>
@@ -50,9 +31,7 @@
   <li><b>Curso Excel Completo do Básico ao Avançado</b> - Udemy <i>2024</i></li>
 </ul>
 
----
-
-### 🚀 | Projetos
+## 🚀 Projetos
 <table width="100%">
   <tr>
     <td width="30%">
@@ -81,15 +60,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📫 | Contato e Linkedin
-<div align="center">
-  <a href="mailto:marcela.meiser@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/marcelameiser/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
