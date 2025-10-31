@@ -49,10 +49,10 @@ Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR. Bus
     <td width="30%">
       <h3 align="center">To Do List</h3>
         <p>
-          Em progresso...
+          FINALIZADO
         </p>
         <p align="center">
-          <a href="https://github.com/MarcelaMeiser?tab=repositories" title="Repositório">
+          <a href="https://github.com/MarcelaMeiser/to-do-list" title="Repositório">
             <b>Ver Código</b>
           </a>
         </p>
