@@ -4,7 +4,7 @@
 </div>
 
 ## 💫 Sobre mim:
-Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR. Busco seguir minha formação acadêmica ao desenvolvimento de soluções práticas e inovadoras. Meu objetivo é atuar em ambientes colaborativos, onde possa aplicar habilidades como trabalho em equipe e conhecimentos técnicos adquiridos.
+Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR - Rio de Janeiro. Busco seguir minha formação acadêmica ao desenvolvimento de soluções práticas e inovadoras. Meu objetivo é atuar em ambientes colaborativos, onde possa aplicar habilidades como trabalho em equipe e conhecimentos técnicos adquiridos.
 
 ## 🌐 Rede:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meiser) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelameiser) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_meiser) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/meiserrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcela.meiser@gmail.com) 
