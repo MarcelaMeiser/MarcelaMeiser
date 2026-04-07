@@ -40,7 +40,7 @@ Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR - Ri
           Em progresso...
         </p>
         <p align="center">
-          <a href="https://github.com/MarcelaMeiser?tab=repositories" title="Repositório">
+          <a href="https://github.com/MarcelaMeiser/rumo-certo-pesquisa-de-viagens" title="Repositório">
             <b>Ver Código</b>
           </a>
         </p>
