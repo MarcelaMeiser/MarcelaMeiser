@@ -16,8 +16,8 @@ Meu nome é Marcela, tenho 22 anos e curso Ciência da Computação no IBMR - Ri
 ![](https://nirzak-streak-stats.vercel.app/?user=MarcelaMeiser&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMeiser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarcelaMeiser&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Certifications
+<li><b>AZ-900 : Azure Fundamentals</b></li>
 
 ## 📚 Cursos e Estudos
 <ul>
